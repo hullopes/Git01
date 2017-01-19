@@ -17,6 +17,7 @@ public class Git01 {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Primeira Alteração, inserindo este texto");
+        System.out.println("Agora o Texto Ficou Batuta");
     }
     
 }
