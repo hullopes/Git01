@@ -17,6 +17,10 @@ public class Git01 {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Primeira Alteração, inserindo este texto");
+        int i,ii;
+        i=1;
+        ii=2;
+        assert(i>ii): "i deve ser maior que ii";
     }
     
 }
